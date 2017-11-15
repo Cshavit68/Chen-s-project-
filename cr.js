@@ -5,7 +5,7 @@ var fs = require('fs');
 
 var START_URL = "http://forecast.israelinfo.co.il/?gclid=Cj0KCQiAuZXQBRDKARIsAMwpUeQV-938UDavA90tNe1jcSdn1mkRMOXG4SCa0P0Yp65gDgDkT_iUB-kaAj6aEALw_wcB";
 var MAX_PAGES_TO_VISIT = 10;
-
+// lala
 var pagesVisited = {};
 var numPagesVisited = 0;
 var pagesToVisit = [];
